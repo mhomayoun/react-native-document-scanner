@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@mhomayoun/react-native-document-scanner": ["./src/index"]
+      "react-native-document-scanner": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
