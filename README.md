@@ -19,13 +19,7 @@ Version `>=2.0.0` is thinking to work with React Native >= 0.60
 Install the library using either yarn:
 
 ```sh
-yarn add @woonivers/react-native-document-scanner`
-```
-
-or npm:
-
-```sh
-npm install @woonivers/react-native-document-scanner --save
+yarn add https://github.com/mhomayoun/react-native-document-scanner`
 ```
 
 Remember, this library uses your device's camera, **it cannot run on a simulator** and you must request **camera permission** by your own.
